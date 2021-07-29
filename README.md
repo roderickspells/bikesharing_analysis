@@ -8,7 +8,7 @@ Jupyter Notebook
 
 ## Overview
 
-For this project, we are analyzing City Bike data in NYC. We are visualiztion data in Tableau to determine if there is a viable business opportunity to replcate the business in Des Moines, Idaho.
+For this project, we are analyzing City Bike data in NYC. We are visualization data in Tableau to determine if there is a viable business opportunity to replicate the business in Des Moines, Idaho.
 
 
 [Link to dashboard](https://public.tableau.com/app/profile/roderick.spells/viz/CityBikeNYC_16275765652560/TripsbyGenderWeekdayperHour?publish=yes)
@@ -28,7 +28,7 @@ For this project, we are analyzing City Bike data in NYC. We are visualiztion da
 
 ### Trip Duration by Gender
 
-![image](https://github.com/roderickspells/bikesharing_analysis/blob/main/Images/trip%20duration%20by)%20gender.png
+![image](https://github.com/roderickspells/bikesharing_analysis/blob/main/Images/trip%20duration%20by%20gender.png)
 
 ### Hourly Ride Usage
 
@@ -48,6 +48,14 @@ For this project, we are analyzing City Bike data in NYC. We are visualiztion da
 
 
 
+
 ## Summary
+
+Throughout this analysis, we were able to see that male are the typical users of these bike accounting for roughly 65% of rides. Males typically ride longer than females. Rides overall tend to be less than an hour and weekends are rides are the most popular and weekdays from 5pm-7pm.Off peak hours tend to be overnight between 2am-6am, this would be an optimal time for maintenance There is a correlation between rider age and ride length, younger riders typically ride for longer times. We can also see that the majority of the riders tend to be subscriptions rather than "one-off" rides (typically tourists).
+
+There are a few more visualizations we can look into to gather more insight to see if there are ways to drive more business. First we can look into historical weather to see if hot/cold wet/dry weather affects the number of rides on a given day. We can also look into the average lifespan of a given bike and the average mileage before a bike is due for maintenance. Both of these would give us a better understanding of long-term profitability in other cities.
+
+
+
 
 
