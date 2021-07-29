@@ -11,7 +11,7 @@ Jupyter Notebook
 For this project, we are analyzing City Bike data in NYC. We are visualization data in Tableau to determine if there is a viable business opportunity to replicate the business in Des Moines, Idaho.
 
 
-[Link to dashboard](https://public.tableau.com/app/profile/roderick.spells/viz/CityBikeNYC_16275765652560/TripsbyGenderWeekdayperHour?publish=yes)
+[Link to dashboard](https://public.tableau.com/app/profile/roderick.spells/viz/CityBikeNYCStory/CityBikeNYC?publish=yes)
 ## Results
 
 ### Popular Starting Locations
